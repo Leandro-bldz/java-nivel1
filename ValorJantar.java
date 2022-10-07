@@ -1,3 +1,14 @@
+/**
+ * <h1>ValorJantar2</h1>
+ * Programa que soma o valor de um jantar informado com a gorjeta do garçon (10%).
+ *
+ *
+ * @author balde
+ * @version 1.0
+ * @since 06-10-2022
+ *
+ */
+
 import java.util.Scanner;
 
 public class ValorJantar {
